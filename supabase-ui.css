@@ -1,0 +1,1 @@
+.heart-wrap{display:flex;align-items:center;gap:5px}.heart{font-size:22px;line-height:1;color:#d1d7d1;padding:0;transition:transform .15s,color .15s}.heart:hover{transform:scale(1.12)}.heart:disabled{cursor:wait;opacity:.55}.heart.saved{color:#cc785c}.like-count{min-width:12px;color:#9aa39c;font:500 10px 'DM Mono'}
